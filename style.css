@@ -2,3 +2,19 @@
 color: #f95959;
 background-color: #000000;
 }
+.s-card{
+    margin-left: 10px;
+    background-color: brown;
+    height: 500px;
+}
+
+.s-para{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+
+.s-para :hover{
+    color: black;
+    font-size: 10px;
+}
